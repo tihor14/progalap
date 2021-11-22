@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637414057 source:d:\c++\egyetem\proggyak\06_hazi_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

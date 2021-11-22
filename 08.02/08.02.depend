@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637588546 source:d:\c++\egyetem\proggyak\08.02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
